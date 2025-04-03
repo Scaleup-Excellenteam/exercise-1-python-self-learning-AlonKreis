@@ -1,7 +1,7 @@
 
 import os
 """זו הדרך"""
-def list_deep_files(directory: str):
+def thats_the_way(directory: str):
     """
     מחזירה רשימה של כל הקבצים בתיקייה הנתונה שמתחילים ב-"deep"
     """
